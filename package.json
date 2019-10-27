@@ -1,0 +1,14 @@
+{
+  "id": "task-web",
+  "name": "Taskwarrior",
+  "version": "0.0.1",
+  "description": "Taskwarrior Web Interface running on the localhost",
+  "main": "index.js",
+  "author": "Nikos Koukis - nickkouk@gmail.com",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://127.0.0.1:5678",
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false
+  }
+}
